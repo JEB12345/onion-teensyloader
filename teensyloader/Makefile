@@ -7,7 +7,7 @@ include $(TOPDIR)/rules.mk
 
 # Name and release number of this package
 PKG_NAME:=teensyloader
-PKG_VERSION=2.1
+PKG_VERSION=2.2r1
 PKG_RELEASE:=$(PKG_SOURCE_VERSION)
 
 PKG_SOURCE_PROTO:=git
